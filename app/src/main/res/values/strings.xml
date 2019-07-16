@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Training</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_to_your_account">Sign In To Your Account</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="connect_with">Connect With :</string>
+</resources>
